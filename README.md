@@ -3,10 +3,10 @@
 No desenvolvimento deste projeto, foram aplicados os princípios SOLID para garantir um código mais organizado, flexível e de fácil manutenção.
 
 ### Saída Esperada no Console
-14 - 8 = 6
-5 * 6 = 30
-2147483647 + 2 = 2147483649
-18 / 3 = 6
+- 14 - 8 = 6
+- 5 * 6 = 30
+- 2147483647 + 2 = 2147483649
+- 18 / 3 = 6
 
 ### Funcionalidades Implementadas
 1. Implementada a funcionalidade para imprimir toda a lista de operações a ser processada após cada cálculo realizado.
