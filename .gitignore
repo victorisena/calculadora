@@ -1,0 +1,13 @@
+bin/
+obj/
+
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+*.nuget.props
+*.paket.props
+*.paket.targets
+*.lock.json
+/packages/
